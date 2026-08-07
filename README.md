@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/nishantsakesh/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/nishantsakesh/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/nishantsakesh/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/nishantsakesh/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/nishantsakesh/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
