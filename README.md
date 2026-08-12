@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0739-daily-temperatures](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nishantsakesh/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -117,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
