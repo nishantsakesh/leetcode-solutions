@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
