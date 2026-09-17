@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
