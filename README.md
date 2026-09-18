@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Interactive
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
