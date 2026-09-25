@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/nishantsakesh/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nishantsakesh/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
